@@ -3,3 +3,4 @@
 frist commit 
 
 by : udil serharum
+Selamat jalan
