@@ -3,4 +3,5 @@
 frist commit 
 
 by : nama anda
-SELAMAT JALAN
+SELAMAT JALAN 
+SEMOGA SAMPAI TUJUAN
